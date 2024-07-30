@@ -26,3 +26,4 @@ Feature: Allcategoriespage action
     And user click on select payment Method
     And user click on cash on delivery
     Then user purchess the cusumize product sccessefully
+    ## we work  on feature also
