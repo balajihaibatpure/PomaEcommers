@@ -1,0 +1,6 @@
+testrunner\TestRunner.class
+stepdefination\Allcategoriespagestep.class
+stepdefination\LoginLogouPageStep.class
+stepdefination\Pomahomestep.class
+stepdefination\RegisterPageStep.class
+E_commerspumo\Cucumber\AppTest.class

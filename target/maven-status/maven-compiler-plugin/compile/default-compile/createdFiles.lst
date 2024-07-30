@@ -1,0 +1,5 @@
+E_commerspumo\Cucumber\App.class
+pageobject\HomepageSuccess.class
+pageobject\LoginLogoutPageSuccesses.class
+pageobject\RegisterPageSuccess.class
+pageobject\AllcategoriesPageSuccesses.class
